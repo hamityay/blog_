@@ -28,6 +28,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'rails_12factor', '~> 0.0.3'
+
+gem 'pg', '~> 0.18.4'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
